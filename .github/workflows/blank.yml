@@ -1,8 +1,0 @@
-on: [push]
-
-jobs:
- runs-shell-command:
-   runs-on: ubuntu-latest
-   steps:
-     - name: echo a string
-       run: echo "Hello World"
