@@ -6,3 +6,4 @@ echo "HI"
 pwd
 whoami
 pwd
+ls
